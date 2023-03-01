@@ -1,10 +1,11 @@
-const susan = "Susan"
-const peter = "Peter"
+const names = require('./4-firstModule')
+const sayHi = require('./5-utils')
+const data = require('./6-alternativeFlavor')
 
-const sayHi = (name) => {
-    console.log(`Hello there ${name}`)
-}
 
-sayHi("John")
-sayHi(susan)
-sayHi(peter)
+require('./7-mindGrenade')
+
+
+// sayHi("John")
+// sayHi(names.susan)
+// sayHi(names.peter)
