@@ -1,1 +1,1 @@
-text-textHere is the result: hello this is first text file ,  hello this is second text file
+Here is the result: hello this is first text file ,  hello this is second text file
